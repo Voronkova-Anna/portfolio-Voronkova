@@ -29,7 +29,7 @@
  ## Ключевые артефакты
  - [DFD контекстного уровня](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/ab1449dfd428247172973a1b429d9a27374d5c41/stets-home/DFD-%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C.drawio.png)
  - [DFD логического уровня](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/edc931eb9efe9e3ee59a45fd28b42e0348475135/stets-home/DFD-%D0%9B%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C.drawio.png)
- - ER-модель, приведенная к 3НФ
+ - [ER-модель, приведенная к 3НФ](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/fa4af63d99793e2ac49d7595a6a56f33a528bba0/stets-home/ER%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.drawio.png)
  - Словарь данных
  - Программа и методика испытаний
  - User Story Map(Miro)
