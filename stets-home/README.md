@@ -27,11 +27,11 @@
 - Приложение должно корректно работать на **iOS** и **Android**
 
  ## Ключевые артефакты
- - [DFD контекстного уровня](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/ab1449dfd428247172973a1b429d9a27374d5c41/stets-home/DFD-%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C.drawio.png)
- - [DFD логического уровня](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/edc931eb9efe9e3ee59a45fd28b42e0348475135/stets-home/DFD-%D0%9B%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C.drawio.png)
- - [ER-модель, приведенная к 3НФ](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/fa4af63d99793e2ac49d7595a6a56f33a528bba0/stets-home/ER%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.drawio.png)
- - [Словарь данных](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/2f85ed68a3b209465faf844ca7f5a182c8e72bd6/stets-home/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)
- - [Программа и методика испытаний](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/67721201c54fd82f49d9750956b3f519c9a1be7e/stets-home/%D0%9F%D0%BC%D0%B8%20Stets%20Home.pdf)
+ - [DFD контекстного уровня](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/7a3fd210fb1b242568752838e0fa027987021d4b/stets-home/media/DFD-%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C.drawio.png)
+ - [DFD логического уровня](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/7a3fd210fb1b242568752838e0fa027987021d4b/stets-home/media/DFD-%D0%9B%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C.drawio.png)
+ - [ER-модель, приведенная к 3НФ](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/7a3fd210fb1b242568752838e0fa027987021d4b/stets-home/media/ER%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.drawio.png)
+ - [Словарь данных](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/7a3fd210fb1b242568752838e0fa027987021d4b/stets-home/media/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)
+ - [Программа и методика испытаний](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/7a3fd210fb1b242568752838e0fa027987021d4b/stets-home/media/%D0%9F%D0%BC%D0%B8%20Stets%20Home.pdf)
  - [User Story Map(Miro)](https://miro.com/app/board/uXjVJ13_hKg=/?share_link_id=446221042039)
  - [Интерактивный прототип(Figma)](https://www.figma.com/design/iNIv3FJAI6zxVqHqdHEAoj/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=19701-579)
    
