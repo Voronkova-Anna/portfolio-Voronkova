@@ -18,7 +18,7 @@
 - Все компоненты должны поддерживать работу в веб-браузере, ПК-приложении, мобильном приложении и приложении для ТВ.
 
 ## Ключевые артефакты:
-- [Диаграмма последовательности](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/429a6c386eec85e3213eb27282b7d804d52e8976/otium-api/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.jpg)
+- [Диаграмма последовательности](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/03a4fd172a22e27d227a86b5979f441824e731f9/otium-api/media/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.jpg)
 - [Диаграмма компонентов](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/1161f9326e38b6cfff66021f9ce93c2df52ec8d4/otium-api/media/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.png)
 - [Задача на разработку](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/2e094456b62bc8a7efc0910d158ad753ee3b8463/otium-api/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BD%D0%B0%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83.pdf)
 
