@@ -27,6 +27,12 @@
 - Приложение должно корректно работать на **iOS** и **Android**
 
  ## Ключевые артефакты
- - [DFD контекстного уровня] (stets-home/DFD-Контекстный уровень.drawio.png)
+ - [DFD контекстного уровня](https://github.com/Voronkova-Anna/portfolio-Voronkova/blob/ab1449dfd428247172973a1b429d9a27374d5c41/stets-home/DFD-%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C.drawio.png)
+ - DFD логического уровня
+ - ER-модель, приведенная к 3НФ
+ - Словарь данных
+ - Программа и методика испытаний
+ - User Story Map(Miro)
+ - Интерактивный прототип(Figma)
  - 
  - 
